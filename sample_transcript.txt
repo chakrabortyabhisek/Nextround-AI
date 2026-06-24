@@ -1,0 +1,4 @@
+Interviewer: Hi, thanks for joining. Can you describe a recent performance optimization you worked on?
+Candidate: Sure — I had a service that was slow because of nested loops over large datasets. I profiled it and found a hotspot. I replaced the nested loops with a hashmap lookup which reduced complexity from O(n*m) to O(n+m). I also added caching for repeated requests.
+Interviewer: How would you scale this service to handle ten times the traffic?
+Candidate: I'd introduce a load balancer, add caching layers, and consider sharding the database. Also monitor latency and scale out workers as needed.
