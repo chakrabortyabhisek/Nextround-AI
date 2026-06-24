@@ -68,3 +68,7 @@ pytest -q
 - For production use, replace the `call_gemini` implementation in `evaluator.py` with the official Gemini client code and robust parsing of model outputs.
 
 Want help wiring your Gemini account or improving scoring prompts? Ask me and I can implement the integration.
+
+## Live Demo
+
+[Open NextRound AI](https://your-app-name.streamlit.app)
