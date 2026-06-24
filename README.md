@@ -1,4 +1,4 @@
-# AI Interview Debrief & Improvement Coach ⭐
+# AI Interview Debrief & Improvement Coach 
 
 A Streamlit app that helps candidates learn from completed interviews by extracting questions, evaluating answers, identifying weak topics, and generating a personalized study plan.
 
