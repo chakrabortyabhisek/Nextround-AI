@@ -9,7 +9,10 @@ Features
 - Identify weak topics and generate a study plan
 - Generate likely follow-up interview questions
 - Save reports to a local SQLite DB
-![Uploading image.png…]()
+  <img width="1527" height="836" alt="image" src="https://github.com/user-attachments/assets/d2b81089-9424-48fa-bf76-c2bfac17453d" />
+
+
+
 
 
 
